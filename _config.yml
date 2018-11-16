@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Vaishali Thakkar
+title: r@mtej@ tadi$hetti 
 email: me@vaishalithakkar.com
-description: Freelance Linux Kernel Engineer and FOSS Community architect
+description: Will fill this up someday
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vaishalithakkar.in" # the base hostname & protocol for your site
-twitter_username: kernel_girl
-github_username:  nerdyvaishali
-linkedin_username: vaishali-thakkar-411b3390
+twitter_username: its_ramteja
+github_username:  ramtejatadishetti
+linkedin_username: tramteja
 paginate: 5
 paginate_path: "blog/page:num/"
 theme-dark: false #Set to true to change to dark website theme
