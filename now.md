@@ -4,8 +4,7 @@ title: Now
 permalink: /now
 ---
 
-## What I'm doing now
-
+[Why do we need Distributive Systems](/why-dist-systems)
 
 
 
