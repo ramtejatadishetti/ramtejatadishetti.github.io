@@ -15,7 +15,7 @@ github_username:  ramtejatadishetti
 linkedin_username: in/tramteja
 paginate: 5
 paginate_path: "blog/page:num/"
-theme-dark: false #Set to true to change to dark website theme
+theme-dark: true #Set to true to change to dark website theme
 
 gems: [jekyll-paginate, kramdown]
 # Build settings
