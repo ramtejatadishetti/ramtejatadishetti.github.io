@@ -18,5 +18,5 @@ This song is a beautiful intersection of lifestyles of 2 different set of people
 It shows very simple things like daily chores we do, small pleasures which give us instant gratification and more specifically no superficial or glossy things,
 just as simple as possible. Its an overdose of slow-motion shots but nonetheless those are moments which we enjoy doing in our daily routine life.
 
-![Akkam Pakkam Paar](https://www.youtube.com/watch?v=ijiQ2vsIJqg)
+[![Akkam Pakkam Paar](https://img.youtube.com/vi/ijiQ2vsIJqg/0.jpg)](https://www.youtube.com/watch?v=ijiQ2vsIJqg)
 
