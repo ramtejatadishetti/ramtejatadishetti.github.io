@@ -13,8 +13,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: its_ramteja
 github_username:  ramtejatadishetti
 linkedin_username: in/tramteja
-paginate: 5
-paginate_path: "blog/page:num/"
 theme-dark: true #Set to true to change to dark website theme
 
 gems: [jekyll-paginate, kramdown]
