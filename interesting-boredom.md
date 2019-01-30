@@ -34,3 +34,24 @@ We often feel down after a rejection. The reason we feel down as we assume that 
 This gives a better explanation of the song. 
 
 
+#### Person is the Loser - AMAV / Yaaradi nee mohini
+
+Best description of a life going through rough phase. Not that its an extremely emergency situation, its just a state of mind. 
+As the lyrics goes
+
+"
+Person is the loser
+he's lucky, he is a loser
+Nowhere where he go, he will be a loser, oh.. heavens help the loser.
+Sitting all alone and all by himself
+He's got no where to go and nobody's help.
+Going round in circles, reaching no where,
+Running up the mountains, out of my breath.
+You got a bad deal baby, so get out of here.
+No matter how you cry, won't lend you what you yearn for.
+Don't you expect breeze, in open desert.
+You try any harder and you will only get hurt.
+Searching for light in closed tunnel.
+Runnning, running, running, oh.. fallen angel.
+this person is a loser.
+"
