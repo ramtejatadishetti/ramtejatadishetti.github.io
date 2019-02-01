@@ -36,6 +36,8 @@ This gives a better explanation of the song.
 
 #### Person is the Loser - AMAV / Yaaradi nee mohini
 
+[![The Person is The Loser](https://img.youtube.com/vi/Izoy1c_C9Bc/0.jpg)](https://www.youtube.com/watch?v=Izoy1c_C9Bc)
+
 Best description of a life going through rough phase. Not that its an extremely emergency situation, its just a state of mind. 
 As the lyrics goes
 
