@@ -4,11 +4,11 @@ title:
 permalink: /why-dist-systems
 ---
 
-# Distributive System
+# Distributed Systems
 
 A distributed system is a group of components working together to achieve a unified goal. In terms of systems, component is nothing but a process. 
 
-## Why do we need Distributive System ?
+## Why do we need Distributed Systems ?
 
 One single answer to this question - Scalability. Lets a take a simple example of web server. A web server receives requests from client, processes the request and sends back the response. 
 
