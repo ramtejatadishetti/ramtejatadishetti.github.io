@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-[Why do we need Distributive Systems](/why-dist-systems)
+[Why do we need Distributed Systems](/why-dist-systems)
 
 
 
